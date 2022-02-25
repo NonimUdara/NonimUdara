@@ -1,4 +1,5 @@
 ### Hi there I'm Nonim 👋
+<hr>
 
 ### I'm a Developer!
 
