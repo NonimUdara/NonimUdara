@@ -5,9 +5,15 @@
 - 🔭 I’m undergraduate student at NSBM Green University.
 - 🌱 I’m currently learning fullstack development.
 - 👯 I’m looking to collaborate with other conetent creators.
-- 💬 Ask me about anything...
-- 📫 How to reach me: nonimudara123@gmail.com
+<!-- 💬 Ask me about anything...
+- 📫 How to reach me: nonimudara123@gmail.com -->
 
+<p align="center">
+ <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/nonim-udara-30b71a222/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hiruna%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/nonim_nk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Hiruna-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:nonimudara123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nonimudara123@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nonim-Udara&color=blue" alt="Nonim Udara" /> </p>
 
