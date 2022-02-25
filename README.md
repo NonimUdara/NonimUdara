@@ -9,4 +9,4 @@
 - 📫 How to reach me: nonimudara123@gmail.com
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nonim-Udara&color=blue" alt="Nonim Udara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nonim-Udara&color=blue" alt="Nonim Udara" /> </p>
