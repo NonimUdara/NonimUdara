@@ -1,7 +1,6 @@
 ### Hi there I'm Nonim 👋
-<hr>
 
-### I'm a Developer!
+<hr>
 
 - 🔭 I’m undergraduate student at NSBM Green University.
 - 🌱 I’m currently learning fullstack development.
