@@ -7,3 +7,6 @@
 - 👯 I’m looking to collaborate with other conetent creators.
 - 💬 Ask me about anything...
 - 📫 How to reach me: nonimudara123@gmail.com
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nonim-Udara&color=blue" alt="Nonim Udara" /> </p>
