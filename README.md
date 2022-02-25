@@ -1,6 +1,6 @@
 ### Hi there I'm Nonim 👋
 
-### Here are some ideas to get you started:
+### I'm a Developer!
 
 - 🔭 I’m undergraduate student at NSBM Green University.
 - 🌱 I’m currently learning fullstack development.
