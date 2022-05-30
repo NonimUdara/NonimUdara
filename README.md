@@ -1,6 +1,6 @@
 ### Hi there I'm Nonim Udara 👋
 
-<hr
+<hr>
 
 - 🔭 I’m undergraduate student at NSBM Green University.
 - 🌱 I’m currently learning fullstack development.
