@@ -11,12 +11,11 @@
 <p align="center">
  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/nonim-udara-30b71a222/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nonim%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/nonim_nk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nonim_nk-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/nonim_udara/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nonim_nk-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:nonimudara123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nonimudara123@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nonim-Udara&color=blue" alt="Nonim Udara" /> </p>
-
 
 ![Nonim's github stats](https://github-readme-stats.vercel.app/api?username=NonimUdara&layout=compact&langs_count=8&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NonimUdara&layout=compact&langs_count=8&theme=light)
