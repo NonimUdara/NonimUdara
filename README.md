@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning fullstack development.
 - 👯 I’m looking to collaborate with other conetent creators.
 <!-- 💬 Ask me about anything...
-- 📫 How to reach me: nonimudara123@gmail.com -->
+- 📫 How to reach me: nonimudara123@gmail.com --
 
 <p align="center">
  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
