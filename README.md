@@ -11,7 +11,7 @@
 <p align="center">
  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/nonim-udara-30b71a222/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nonim%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/nonim_udara/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nonim_udara-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/nonim_udara/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-nonim_udara-blue?style=flat-square&logo=facebook"></a>
 <a href="mailto:nonimudara123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nonimudara123@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
