@@ -41,9 +41,8 @@
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 </p>
 
-<a href="https://holopin.io/@nonimudara" target="_blank">
-  <img src="https://holopin.me/nonimudara" alt="Holopin Badges" style="background: none; box-shadow: none; border: none;">
-</a>
+[![Badge 1](https://holopin.io/api/user/board?user=nonimudara&badge=0)](https://holopin.io/@nonimudara)
+[![Holopin Badge](https://holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2Fbadges%2Fyour-badge-id.png&w=256&q=75)](https://holopin.io/@nonimudara)
 
 <!-- ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio) -->
 <!-- ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase) -->
