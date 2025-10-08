@@ -41,7 +41,7 @@
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 </p>
 
-
+[![An image of @nonimudara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nonimudara)](https://holopin.io/@nonimudara)
 
 <!-- ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio) -->
 <!-- ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase) -->
