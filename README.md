@@ -56,4 +56,12 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-[![Holopin badges](https://holopin.me/nonimudara)](https://holopin.io/@nonimudara)
+<p align="center">
+  <strong>🎖 My Holopin Badges</strong>
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@nonimudara" target="_blank">
+    <img src="https://holopin.me/nonimudara" alt="Holopin badges" width="400"/>
+  </a>
+</p>
