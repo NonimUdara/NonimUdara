@@ -41,6 +41,4 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-<p align="center">
-  [![An image of @nonimudara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nonimudara)](https://holopin.io/@nonimudara)
-</p>
+[![An image of @nonimudara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nonimudara)](https://holopin.io/@nonimudara)
