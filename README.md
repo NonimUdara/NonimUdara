@@ -5,16 +5,19 @@
 🤝 Open to collaborating with **content creators**  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nonim-udara-30b71a222/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nonim%20-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/nonim-udara-30b71a222/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nonim Udara-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.facebook.com/nonim_udara/">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-nonim_udara-blue?style=for-the-badge&logo=facebook"/>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/nonim_udara/" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-nonim_udara-blue?style=for-the-badge&logo=facebook" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:nonimudara123@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-nonimudara123@gmail.com-red?style=for-the-badge&logo=gmail"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-nonimudara123@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nonim-Udara&color=blue" alt="Profile views" />
