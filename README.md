@@ -10,8 +10,12 @@
     alt="LinkedIn" 
     src="https://img.shields.io/badge/LinkedIn-Nonim%20Abeysekara-0077B5?style=flat&logo=linkedin&logoColor=white" 
   />
-</a>
-
+  <a href="https://web.facebook.com/nonim.abeysekara/" target="_blank"> 
+  <img 
+    alt="Facebook" 
+    src="https://img.shields.io/badge/Facebook-Nonim%20Abeysekara-blue?style=for-the-badge&logo=facebook&logoColor=white"
+  />   
+  </a>
 </p>
 <p align="center"> 
   <a href="https://web.facebook.com/nonim.abeysekara/"> 
