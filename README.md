@@ -5,14 +5,11 @@
 🤝 Open to collaborating with **content creators**  
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/nonim-abeysekara-30b71a222/" target="_blank">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
-    alt="LinkedIn" 
-    width="24" height="24" 
-    style="vertical-align:middle; margin-right: 6px;"
-  />
-  Nonim Abeysekara
+  <a href="https://www.linkedin.com/in/nonim-abeysekara-30b71a222/" target="_blank" style="text-decoration: none;">
+  <span style="display: inline-flex; align-items: center; background-color: #0077B5; color: white; padding: 4px 10px; border-radius: 4px; font-family: Arial, sans-serif; font-size: 14px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="16" height="16" style="margin-right: 6px;" />
+    Nonim Abeysekara
+  </span>
   </a>
   <a href="https://web.facebook.com/nonim.abeysekara/" target="_blank"> 
   <img 
