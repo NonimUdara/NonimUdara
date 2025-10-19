@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/nonim-abeysekara-30b71a222/"> 
   <img 
     alt="LinkedIn" 
-    src="https://img.shields.io/badge/LinkedIn-Nonim%20Abeysekara-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+    src="https://img.shields.io/badge/LinkedIn-Nonim%20Abeysekara-blue?style=flat&logo=linkedin&logoColor=white"/> </a>
   </a>
   <a href="https://web.facebook.com/nonim.abeysekara/" target="_blank"> 
   <img 
