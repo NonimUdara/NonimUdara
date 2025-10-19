@@ -8,8 +8,9 @@
   <a href="https://www.linkedin.com/in/nonim-abeysekara-30b71a222/" target="_blank">
   <img 
     alt="LinkedIn" 
-    src="https://img.shields.io/badge/LinkedIn-Nonim%20Abeysekara-0077B5?style=flat&logo=linkedin&logoColor=white" 
+    src="https://img.shields.io/badge/LinkedIn-Nonim%20Abeysekara-blue?style=flat-square&logo=linkedin&logoColor=white" 
   />
+  </a>
   <a href="https://web.facebook.com/nonim.abeysekara/" target="_blank"> 
   <img 
     alt="Facebook" 
