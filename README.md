@@ -42,5 +42,5 @@
 </p>
 
 <p align="center">
-  <img src="https://holopin-badge.vercel.app/?user=nonimudara" alt="Holopin Badges"/>
+  [![An image of @nonimudara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nonimudara)](https://holopin.io/@nonimudara)
 </p>
