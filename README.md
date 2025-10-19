@@ -18,8 +18,16 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nonim-Udara&color=blue" alt="Nonim Udara" /> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NonimUdara&show_icons=true&count_private=true&theme=vue&bg_color=ffffff&title_color=007acc&text_color=333333&icon_color=007acc&border_color=E0E0E0" width="48%" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NonimUdara&layout=compact&theme=vue&bg_color=ffffff&title_color=007acc&text_color=333333&icon_color=007acc&border_color=E0E0E0" width="48%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NonimUdara&show_icons=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=30363D" width="45%" />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NonimUdara&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=30363D" width="45%" />
+</p>
+
+<p align="center">
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=NonimUdara&theme=tokyonight&hide_border=false&background=0D1117&stroke=58A6FF&fire=FF8C00&currStreakNum=C9D1D9&currStreakLabel=79C0FF&sideLabels=C9D1D9" width="95%" />
 </p>
 
 ### Languages and Tools:
