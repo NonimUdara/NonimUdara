@@ -7,9 +7,12 @@
 <p align="center"> 
   <a href="https://www.linkedin.com/in/nonim-abeysekara-30b71a222/" target="_blank">
   <img 
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
     alt="LinkedIn" 
-    src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white" 
+    width="24" height="24" 
+    style="vertical-align:middle; margin-right: 6px;"
   />
+  Nonim Abeysekara
   </a>
   <a href="https://web.facebook.com/nonim.abeysekara/" target="_blank"> 
   <img 
