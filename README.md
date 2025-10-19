@@ -21,7 +21,7 @@
   <img src="https://streak-stats.demolab.com?user=NonimUdara&theme=default&hide_border=false&background=ffffff&stroke=007acc&fire=FF8C00&currStreakNum=333333&currStreakLabel=007acc&sideLabels=333333" width="95%" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nonim-Udara&color=blue" alt="Nonim Udara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=NonimUdara&color=blue" alt="NonimUdara" /> </p>
 
 <p align="center">
   <!-- GitHub Stats Card -->
