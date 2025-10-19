@@ -9,10 +9,16 @@
 - 📫 How to reach me: nonimudara123@gmail.com -->
 
 <p align="center">
- <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/nonim-udara-30b71a222/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nonim%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/nonim_udara/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-nonim_udara-blue?style=flat-square&logo=facebook"></a>
-<a href="mailto:nonimudara123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nonimudara123@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NonimUdara&show_icons=true&count_private=true&theme=vue&bg_color=ffffff&title_color=007acc&text_color=333333&icon_color=007acc&border_color=E0E0E0" width="45%" />
+
+  <!-- Top Languages Card --
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NonimUdara&layout=compact&theme=vue&bg_color=ffffff&title_color=007acc&text_color=333333&icon_color=007acc&border_color=E0E0E0" width="45%" />
+</p>
+
+<p align="center">
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=NonimUdara&theme=default&hide_border=false&background=ffffff&stroke=007acc&fire=FF8C00&currStreakNum=333333&currStreakLabel=007acc&sideLabels=333333" width="95%" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nonim-Udara&color=blue" alt="Nonim Udara" /> </p>
