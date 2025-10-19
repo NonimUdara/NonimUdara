@@ -42,7 +42,5 @@
 </p>
 
 <p align="center">
-  <a href="https://holopin.io/@nonimudara" target="_blank">
-    View my Holopin Badges
-  </a>
+  <img src="https://holopin-badge.vercel.app/?user=nonimudara" alt="Holopin Badges"/>
 </p>
