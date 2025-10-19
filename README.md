@@ -62,6 +62,11 @@
 
 <p align="center">
   <a href="https://holopin.io/@nonimudara" target="_blank">
-    <img src="https://holopin.me/nonimudara" alt="Holopin badges" object="cover"/>
+    <img src="https://holopin.me/nonimudara" alt="Holopin badges" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
   </a>
 </p>
+
+<p align="center">
+  <em>Click the badges to view my full Holopin profile.</em>
+</p>
+
