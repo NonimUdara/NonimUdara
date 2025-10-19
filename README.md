@@ -42,5 +42,7 @@
 </p>
 
 <p align="center">
-  [![Holopin](https://holopin.me/nonimudara)](https://holopin.io/@nonimudara)
+  <a href="https://holopin.io/@nonimudara" target="_blank">
+    View my Holopin Badges
+  </a>
 </p>
