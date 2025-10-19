@@ -6,11 +6,13 @@
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/nonim-abeysekara-30b71a222/"> 
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nonim%20-blue?style=for-the-badge&logo=linkedin"/> 
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nonim_Abeysekara-blue?style=for-the-badge&logo=linkedin"/> 
   </a> 
   <a href="https://web.facebook.com/nonim.abeysekara/"> 
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-nonim_udara-blue?style=for-badge&logo=facebook"/>   </a> 
-  <a href="mailto:nonimudara123@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Email-nonimudara123@gmail.com-red?style=for-the-badge&logo=gmail"/> </a> 
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Nonim_Abeysekara-blue?style=for-badge&logo=facebook"/>   </a> 
+  <a href="mailto:nonimudara123@gmail.com"> 
+    <img alt="Email" src="https://img.shields.io/badge/Email-nonimudara123@gmail.com-red?style=for-the-badge&logo=gmail"/> 
+  </a> 
 </p>
 
 <p align="center">
