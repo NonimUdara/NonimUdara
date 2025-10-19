@@ -6,15 +6,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nonim-udara-30b71a222/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nonim%20Udara-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/nonim_udara/" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  <a href="https://www.facebook.com/nonim.udara" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Nonim%20Udara-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:nonimudara123@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-nonimudara123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
