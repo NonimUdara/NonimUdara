@@ -62,6 +62,6 @@
 
 <p align="center">
   <a href="https://holopin.io/@nonimudara" target="_blank">
-    <img src="https://holopin.me/nonimudara" alt="Holopin badges" width="400"/>
+    <img src="https://holopin.me/nonimudara" alt="Holopin badges" object="cover"/>
   </a>
 </p>
