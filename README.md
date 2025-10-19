@@ -5,14 +5,14 @@
 🤝 Open to collaborating with **content creators**  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nonim-udara-30b71a222/" target="">
+  <a href="https://www.linkedin.com/in/nonim-udara-30b71a222/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nonim Udara-blue?style=flat&logo=linkedin" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/nonim_udara/" target="">
+  &nbsp;
+  <a href="https://www.facebook.com/nonim_udara/">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-nonim_udara-blue?style=flat&logo=facebook" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:nonimudara123@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-nonimudara123@gmail.com-red?style=flat&logo=gmail" />
   </a>
