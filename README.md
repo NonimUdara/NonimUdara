@@ -17,11 +17,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nonim-Udara&color=blue" alt="Nonim Udara" /> </p>
 
-<!-- GitHub Stats -->
-![Nonim's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=NonimUdara&show_icons=true&count_private=true&theme=vue&bg_color=ffffff&title_color=007acc&text_color=333333&icon_color=007acc&border_color=E0E0E0)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NonimUdara&layout=compact&theme=vue&bg_color=ffffff&title_color=007acc&text_color=333333&icon_color=007acc&border_color=E0E0E0)
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NonimUdara&show_icons=true&count_private=true&theme=vue&bg_color=ffffff&title_color=007acc&text_color=333333&icon_color=007acc&border_color=E0E0E0" width="48%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NonimUdara&layout=compact&theme=vue&bg_color=ffffff&title_color=007acc&text_color=333333&icon_color=007acc&border_color=E0E0E0" width="48%" />
+</p>
 
 ### Languages and Tools:
 <p>
