@@ -1,7 +1,7 @@
 # Hi, I'm Nonim Udara 👋
 
 🎓 Graduate of **School of Business Management (NSBM)**, affiliated with **University of Plymouth, UK**  
-👨‍💻 Learning... **Fullstack Development**  
+👨‍💻 Learning **Fullstack Development**  
 🤝 Open to collaborating with **content creators**  
 
 <p align="center"> 
